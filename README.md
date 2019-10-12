@@ -21,7 +21,7 @@ What we'll do during this project
 
     - ROT-13 [go there][rot13_page]
 
-    - etc.
+    - Vigenere [take me there][vigenere_page].
 
 - introduce design patterns, exp:
 
@@ -49,3 +49,5 @@ What we'll do during this project
 
 [cesar_page]: <src/main/java/eu/szestkam/cryptotraining/cesar/CesarGuide.md> (Cesar cipher guideline)
 [rot13_page]: <src/main/java/eu/szestkam/cryptotraining/rot_13/Rot13Guide.md> (ROT-13 cipher guideline)
+[rot13_page]: <src/main/java/eu/szestkam/cryptotraining/rot_13/Rot13Guide.md> (ROT-13 cipher guideline)
+[vigenere_page]: <src/main/java/eu/szestkam/cryptotraining/vigenere/VigenereGuide.md> (Vigenere cipher guideline)
