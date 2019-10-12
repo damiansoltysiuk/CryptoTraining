@@ -21,7 +21,11 @@ What we'll do during this project
 
     - ROT-13 [go there][rot13_page]
 
-    - Vigenere [take me there][vigenere_page].
+    - Vigenere [take me there][vigenere_page]
+
+    - Matrix [let's go][matrix_page]
+
+    - AtBash [nice, WTF?][AtBash_page]
 
 - introduce design patterns, exp:
 
@@ -51,3 +55,5 @@ What we'll do during this project
 [rot13_page]: <src/main/java/eu/szestkam/cryptotraining/rot_13/Rot13Guide.md> (ROT-13 cipher guideline)
 [rot13_page]: <src/main/java/eu/szestkam/cryptotraining/rot_13/Rot13Guide.md> (ROT-13 cipher guideline)
 [vigenere_page]: <src/main/java/eu/szestkam/cryptotraining/vigenere/VigenereGuide.md> (Vigenere cipher guideline)
+[matrix_page]: <src/main/java/eu/szestkam/cryptotraining/matrix/MatrixGuide.md> (Matrix cipher guideline)
+[AtBash_page]: <src/main/java/eu/szestkam/cryptotraining/AtBash/AtBashGuide.md> (AtBash cipher guideline)
