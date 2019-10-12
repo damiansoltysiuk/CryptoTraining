@@ -59,4 +59,4 @@ What we'll do during this project
 [vigenere_page]: <src/main/java/eu/szestkam/cryptotraining/vigenere/VigenereGuide.md> (Vigenere cipher guideline)
 [matrix_page]: <src/main/java/eu/szestkam/cryptotraining/matrix/MatrixGuide.md> (Matrix cipher guideline)
 [AtBash_page]: <src/main/java/eu/szestkam/cryptotraining/AtBash/AtBashGuide.md> (AtBash cipher guideline)
-[credit_page]: <src\main\java\credits.md> (Sources that helped me a lot)
+[credit_page]: <src/main/java/credits.md> (Sources that helped me a lot)
